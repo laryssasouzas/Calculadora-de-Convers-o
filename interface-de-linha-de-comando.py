@@ -63,3 +63,5 @@ if(funcEscolha =='12'):
     entradaDoTecladoValorASerConvertido  = converterStringParaFloat(input())
     valorConvertido = PetaByteParaTeraByte(entradaDoTecladoValorASerConvertido)
     print(valorConvertido)
+
+    
